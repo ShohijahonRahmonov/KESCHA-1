@@ -1,0 +1,15 @@
+C:\Users\Owner\KESCHA\bin\Debug\net6.0\KESCHA.exe
+C:\Users\Owner\KESCHA\bin\Debug\net6.0\KESCHA.deps.json
+C:\Users\Owner\KESCHA\bin\Debug\net6.0\KESCHA.runtimeconfig.json
+C:\Users\Owner\KESCHA\bin\Debug\net6.0\KESCHA.dll
+C:\Users\Owner\KESCHA\bin\Debug\net6.0\KESCHA.pdb
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.csproj.AssemblyReference.cache
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.AssemblyInfoInputs.cache
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.AssemblyInfo.cs
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.csproj.CoreCompileInputs.cache
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.dll
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\refint\KESCHA.dll
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.pdb
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\KESCHA.genruntimeconfig.cache
+C:\Users\Owner\KESCHA\obj\Debug\net6.0\ref\KESCHA.dll
